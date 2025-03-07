@@ -36,5 +36,6 @@ This project designs and simulates an energy system to supply district heating a
 
 Authors:
 Sristi Bhadani
+
 https://github.com/DhananjayGajera
 
