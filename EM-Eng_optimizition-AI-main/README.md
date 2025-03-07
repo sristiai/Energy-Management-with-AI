@@ -33,3 +33,8 @@ This project designs and simulates an energy system to supply district heating a
 - **Scenario 1:** Lowest cost but highest CO₂ emissions.
 - **Scenario 2:** Most cost-effective but higher environmental impact.
 - **Scenario 3:** Most sustainable with lowest CO₂ emissions but higher costs.
+
+Authors:
+Sristi Bhadani
+https://github.com/DhananjayGajera
+
